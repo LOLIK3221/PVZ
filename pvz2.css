@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+    background-image: linear-gradient(#000000,#420000,#914f2b,#ff8800,#ffea00);
+    color: rgb(25, 0, 255);
+}
+header{
+    text-align: center;
+    margin-bottom: 1%;
+}
+header img{
+    width: 60%;
+}
+nav{
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:2;
+}
+nav a{
+    text-decoration: none;
+    border: 4px groove whitesmoke;
+    color: whitesmoke;
+    border-radius: 10px;
+    background-color: #A04747;
+    padding: 1%;
+}
+.my{
+    color: #A04747;
+    background-color: whitesmoke;
+}
+main img{
+    width: 58%;
+    margin-left: 20%;
+}
+footer{
+    padding: 4%;
+    background-color: whitesmoke;
+    color: #A04747;
+}
+footer h2{
+    text-align: center;
+}
+footer div{
+    display: flex;
+    justify-content: space-between;
+}
+.myname{
+    color: #A04747;
+    font-style: italic;
+    font-weight: 900;
+}
+.img2{
+    width: 40%;
+    margin-left: 30%;
+}
+.img3{
+    width: 40%;
+    margin-left: 30%;
+}
+h1{
+    text-shadow: 4px 4px 5px white;
+}
